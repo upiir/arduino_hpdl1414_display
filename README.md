@@ -27,6 +27,11 @@ Related videos:
 
 Small Animations:
 
+![arduino_bubble_display_01](https://github.com/user-attachments/assets/c11f9334-a9fe-412f-8bf8-0eaf94d2ad75)
+![arduino_bubble_display_02](https://github.com/user-attachments/assets/f993c663-5b82-4554-b587-a575545a044e)
+![arduino_bubble_display_03](https://github.com/user-attachments/assets/67569368-9b91-4e6c-9544-b95b76ce95cf)
+
+
 
 Screenshots from the video:
 
